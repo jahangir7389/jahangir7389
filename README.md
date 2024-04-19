@@ -10,7 +10,7 @@ Hello, I am [Jahangir Khan](https://www.linkedin.com/in/jahangir-khan-20772785//
 - 👀 I’m interested in python developer opportunities.
 - 🌱 I’m currently working on a few projects.
 - 📫 My Website (under update 😅): https://jahangir7389.github.io/
-- 💬 Ask me about python backend development and I>T Support
+- 💬 Ask me about python backend development and I.T Support
 - 😄 Pronouns: He/him
 <br>
 
